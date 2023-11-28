@@ -13,11 +13,11 @@
   "author": "sns",
   "license": "MIT",
   "dependencies": {
-    "bcrypt": "^1.0.3",
+    "bcrypt": "^5.0.1",
     "csurf": "^1.9.0",
     "ejs": "^2.5.7",
     "express": "^4.16.2",
-    "express-fileupload": "^0.4.0",
+    "express-fileupload": "^1.4.0",
     "express-flash": "0.0.2",
     "express-session": "^1.15.6",
     "flash": "^1.1.0",
